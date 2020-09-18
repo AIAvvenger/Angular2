@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'amir';
+  title = 'Quentin Tarantino’s 50 Best Character Names';
 }

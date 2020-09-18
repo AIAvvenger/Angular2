@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "amir"
+    }
+  },
+  "defaultProject": "amir",
+  "cli": {
+    "analytics": "03c5b09c-0104-4c84-9545-274170f0b410"
+  }
 }
